@@ -25,6 +25,7 @@ SECRET_KEY = '3lnzu!@%jv7j+1po+wn!)nq085rwjtpx+7gb5sm1_75lff&%s+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# your server ip address    // commented by JJ 10/09/2018
 ALLOWED_HOSTS = []
 
 
